@@ -19,4 +19,6 @@ Path Scanner GUI adalah aplikasi berbasis **Python** dengan antarmuka **GUI** un
 ```bash
 git clone https://github.com/YogaRmdn/Path-scanner-GUI.git
 cd Path-scanner-GUI
+python main.py
 ```
+![Path-scanner-GUI](ss.png)
