@@ -1,4 +1,6 @@
 # Path Scanner GUI
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)]
 
 Path Scanner GUI adalah aplikasi berbasis **Python** dengan antarmuka **GUI** untuk mempermudah proses scanning path/endpoint pada suatu website. Tools ini cocok untuk **pentesting web** dan membantu menemukan **directory atau file tersembunyi** dengan cepat.
 
